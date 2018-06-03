@@ -40,5 +40,5 @@ function myCreateFunction(i,j) {
     }    
     count++;
     console.log(state.result);
-
+    console.log('iteration', count);
 }
